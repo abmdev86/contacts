@@ -8,7 +8,8 @@ using browser storage and faking some network latency.
 - build a contact list with react and Vite
   - react router
   - tailwind
-  - headless UI
+  - flowbite
+  - [heroicons](https://github.com/tailwindlabs/heroicons)
   - local forage
   - match-sorter
   - sort-by
